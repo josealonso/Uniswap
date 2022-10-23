@@ -16,3 +16,6 @@ x is the reserve
 y is token reserve
 k is a constant
 
+### Uniswap V1
+
+It only supports eher-token swaps.
