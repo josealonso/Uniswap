@@ -19,3 +19,8 @@ k is a constant
 ### Uniswap V1
 
 It only supports eher-token swaps.
+
+UniswapV1 has only two contracts: *Factory* and *Exchange*.
+
+- **Exchange** contract defines exchanging logic for each pair.
+- **Factory** is a registry contract that keeps track of all deployed exchanges.
